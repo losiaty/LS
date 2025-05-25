@@ -1,0 +1,27 @@
+ZASADY GRY 
+
+SCRABBLE polega na budowaniu s³ów (przypominaj¹cym uk³adanie krzy¿ówki), z liter umieszczonych na p³ytkach. 
+
+Ka¿da z liter posiada swoj¹ wartoœæ punktow¹. Gra toczy siê na specjalnie przygotowanej planszy zawieraj¹cej m.in. pola premiowe. Pod ni¹ znajduj¹ siê dwa stojaki z literami. Uczestnicy otrzymuj¹ po siedem p³ytek. W ca³ej grze jest ich sto.
+
+Podobnie jak "Joker" w talii kart, w SCRABBLE znajduj¹ siê dwie specjalne p³ytki, tzw. "blanki", zastêpuj¹ce dowolne litery z kompletu. 
+
+Gracz ma nastêpuj¹ce mo¿liwoœci wykonania ruchu:
+
+- U³o¿enie wyrazu
+Mo¿na wy³o¿yæ dowoln¹ iloœæ liter (1-7), jednak wszystkie musz¹ le¿eæ na jednej linii (pionowo lub poziomo). Po za tym musz¹ tworzyæ istniej¹ce s³owa wraz z le¿¹cymi ju¿ na planszy literami.
+
+- Wymiana literek
+Mo¿na wymieniæ dowoln¹ iloœæ liter (0-7)
+
+- Opuszczenie kolejki
+
+Po wylosowaniu blanka pojawia siê okienko, które pozwala nam zdefiniowaæ jak¹ literê ma on zastêpowaæ. 
+
+Mo¿na wymieniæ kilka liter za jednym razem, ale trzeba pamiêtaæ, ¿e wymiana zastêpuje ruch.
+
+Grê zaczynamy zawsze od œrodkowego pola na planszy, oznaczonego gwiazdk¹. Pierwszy wyraz musi przechodziæ przez to pole. Litery przeci¹gamy kursorem myszy na wybrane przez siebie miejsce. Uk³adamy w ten sposób s³owa, za które dostajemy punkty. Zielone pola daj¹ nam tyle punktów, ile wynosi wartoœæ nominalna liter. S¹ te¿ pola kolorowe o wy¿szych wartoœciach: "dwa razy litera" i "trzy razy litera" zwielokrotniaj¹ wartoœæ litery na nich po³o¿onej odpowiednio 2 lub 3 razy. Natomiast "dwa razy s³owo" i "trzy razy s³owo" zwielokrotniaj¹ wartoœæ ca³ego s³owa.
+
+Nale¿y te¿ pamiêtaæ, ¿e wyraz, do którego u¿yjemy 7 p³ytek, jest premiowany dodatkowymi 50 punktami. Gra koñczy siê, gdy jeden z graczy wykorzysta³ wszystkie litery. Pozostali gracze otrzymuj¹ punkty karne równe sumie wartoœci niewykorzystanych przez nich liter. Blank w tym przypadku ma wartoœæ 50.
+
+ 
